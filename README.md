@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cart-Pole MPC Simulation
 
 Bu proje, bir Model Predictive Control (MPC) denetleyicisi kullanarak Cart-Pole (sarkaçlı araba) sistemini dengelemeyi simüle eder.
@@ -31,3 +32,6 @@ python cartpole_mpc.py
     *   Theta (Açı) vs Zaman
     *   Konum vs Zaman
     *   Kontrol Kuvveti vs Zaman
+=======
+# MPC_Project
+>>>>>>> 5acd01252f4796fccf918a1bc30f059897d74cab
